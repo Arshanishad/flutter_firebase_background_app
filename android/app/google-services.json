@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119611033041",
+    "project_id": "backgroundapp-e5159",
+    "storage_bucket": "backgroundapp-e5159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119611033041:android:e5dd8216500bb02d1dccf0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_background_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNZi-iO9LrfCRPdt3vasxZ61f00T2r-XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
